@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: custom
-        image: ayushibalchandani@gmail.com/dockerimage
+        image: AyushiBalchandani/dockerimage
         ports:
         - containerPort: 80
