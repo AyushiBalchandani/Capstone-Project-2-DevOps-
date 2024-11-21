@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: custom
-        image: AyushiBalchandani/dockerimage
+        image: ayushibalchandani/dockerimage
         ports:
         - containerPort: 80
